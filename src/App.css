@@ -9,3 +9,7 @@
   top: 10px;
   left: 10px;
 }
+
+main{
+  display: flex;
+}
